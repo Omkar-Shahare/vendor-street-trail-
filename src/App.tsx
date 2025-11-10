@@ -23,7 +23,7 @@ import ConvAIChatbot from "./components/ConvAIChatbot";
 import DeliveryAuth from "./pages/auth/DeliveryAuth";
 import DeliveryProfileSetup from "./pages/auth/DeliveryProfileSetup";
 // 2. Import the REAL DeliveryDashboard component
-import DeliveryDashboard from "./pages/delivery/DeliveryDashboard";
+import DeliveryDashboard from "./pages/Delivery/DeliveryDashboard";
 
 // 3. DELETE the placeholder component that was here
 
